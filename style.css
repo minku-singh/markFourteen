@@ -62,6 +62,7 @@ input{
 #msg{
     display: none;
     font-weight: bold;
+    padding: 5px;
 }
 
 /* angle triangle - whole div  */
